@@ -30,6 +30,7 @@ public class program_34 {
         }
         for (int i = 0; i < TOTAL_ALUNOS; ++i){
             for (int j = 0; i < TOTAL_BIMESTRES; ++j){
+                //ok
 
             }
         }
